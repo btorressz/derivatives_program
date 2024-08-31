@@ -1,6 +1,6 @@
 # derivatives_program
 
-This project enables the creation and management of derivatives options contracts on the Solana blockchain. It allows users to:
+This project enables the creation and management of derivatives options contracts on the Solana blockchain and was created in Solana Playground IDE. It allows users to:
 
 - **Initialize Options Contracts**: Users can create options contracts with specific terms, such as strike price, expiry date, and whether the option is a call or a put.
 - **Deposit Margin**: Participants can deposit margin into an escrow account to secure their positions in the options contract.
