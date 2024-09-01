@@ -1,3 +1,4 @@
+//tests.rs is currently not used anchor.tests.ts is. 
 use anchor_lang::prelude::*;
 use anchor_lang::system_program;
 use anchor_spl::token::{self, Mint, TokenAccount, Token};
