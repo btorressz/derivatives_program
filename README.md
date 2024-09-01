@@ -37,8 +37,6 @@ The contract utilizes **Cross-Program Invocation (CPI)** to interact with the So
   - Updates the margin account.
   - Transfers the specified amount from the user's token account to the escrow account.
  
-    ## License
-    This project is under MIT license. 
 
 ## 3. Settle Option
 - **Function**: `settle_option`
@@ -48,3 +46,7 @@ The contract utilizes **Cross-Program Invocation (CPI)** to interact with the So
   - Determines the outcome of the option.
   - Transfers the premium from the escrow account to the appropriate party.
   - Updates the option contract status.
+
+ ## License
+    This project is under MIT license. 
+    
